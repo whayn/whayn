@@ -1,5 +1,5 @@
 # 👋🏻 Hello!
-<a align = "center" href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a>
+<p align="center"> <a href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
 
 **I'm WHAYN**		
 
