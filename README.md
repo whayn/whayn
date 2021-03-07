@@ -1,5 +1,7 @@
-# 👋🏻 Welcome!
-**I'm WHAYN**		<a href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a>
+# 👋🏻 Hello!
+<a align = "center" href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a>
+
+**I'm WHAYN**		
 
 *I'm a developer from Paris 🥖*
 
