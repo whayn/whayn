@@ -1,6 +1,4 @@
 # 👋🏻 Hello!
-<p align="center"> <a href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
-
 **I'm WHAYN**		
 
 *I'm a developer from Paris 🥖*
@@ -27,3 +25,4 @@
 
 <a href="https://sellix.io/Whayn"><img src="https://i.imgur.com/VxzEp4t.png" width="250"></a> 
 
+<p align="center"> <a href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
