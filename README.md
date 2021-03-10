@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <a href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server">
-  <a href="https://github.com/puckzxz/NotAnotherAnimeTheme/commits/master" alt="Latest Commit">
+  <a href="https://github.com/whayn" alt="Latest Commit">
      <img src="https://img.shields.io/github/watchers/whayn/whayn?logo=CBS&style=flat&color=green" /></a>
   </a>
 </p>
