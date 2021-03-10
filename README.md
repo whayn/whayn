@@ -1,4 +1,4 @@
-# 👋🏻 Hello!
+# 👋🏻 About me 
 **I'm WHAYN**		
 
 *I'm a developer from Paris 🥖*
@@ -13,6 +13,8 @@
 
 📚 »┊ I am learning javascript every day to code my own advanced discord bot
 
+# 📊 Statistics 
+
 ![WHAYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whayn&count_private=true&show_icons=true&theme=nightowl)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whayn&theme=nightowl)
@@ -25,4 +27,9 @@
 
 <a href="https://sellix.io/Whayn"><img src="https://i.imgur.com/VxzEp4t.png" width="250"></a> 
 
-<p align="center"> <a href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
+<p align="center"> 
+  <a href="https://discord.gg/QsMwJFJThR"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server">
+  <a href="https://github.com/puckzxz/NotAnotherAnimeTheme/commits/master" alt="Latest Commit">
+     <img src="https://img.shields.io/github/watchers/whayn/whayn?logo=GitHub&style=flat&color=green" /></a>
+  </a>
+</p>
