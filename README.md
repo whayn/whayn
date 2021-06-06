@@ -2,6 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=whayn&color=000000">
 </p>
 
+
+<h1 align="center"> <img src="https://discord.c99.nl/widget/theme-4/813053611189600307.png" width="400" heigth="85" alt="Discord" /> </h1>
+
+
 # 👋🏻 About me 
 **I'm WHAYN**		
 *I'm a developer from Paris 🥖*
