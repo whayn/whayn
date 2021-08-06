@@ -16,9 +16,9 @@
 
 🥱 »┊ I usually code Discord bots and softwares to replace me in boring tasks
 
-📟 »┊ I only know three coding languages, Javascript, HTML/CSS, and Python
+📟 »┊ I know four coding languages, Javascript, HTML/CSS, Python, and C# (not really well)
 
-📚 »┊ I am learning javascript every day to code my own advanced discord bot
+📚 »┊ I am learning javascript every day to code my own advanced discord bot with [@NANO-ck](https://github.com/NANO-ck)
 
 # 📊 Statistics 
 
@@ -27,7 +27,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whayn&theme=dark)
 
 # 📊 Projects
-[NANO BOT](https://nano-ck.cf)
+[NEXION BOT](https://nano-ck.cf)
 
 # 📬 Contact Me
 <a href="https://www.whayn.tk/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UCW-0oJZfraag5hBVfNYuzYQ/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
