@@ -16,9 +16,9 @@
 
 🥱 »┊ I usually code Discord bots and softwares to replace me in boring tasks
 
-📟 »┊ I know four coding languages, Javascript, HTML/CSS, Python, and C# (not really well)
+📟 »┊ I know five coding languages, JavaScript, HTML/CSS, Python, C# (not really well) and Sql.
 
-📚 »┊ I am learning javascript every day to code my own advanced discord bot with [@NANO-ck](https://github.com/NANO-ck)
+📚 »┊ I am learning JavaScript every day to code my own advanced discord bot with [@NANO-ck](https://github.com/NANO-ck)
 
 # 📊 Statistics 
 
@@ -27,10 +27,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whayn&theme=dark)
 
 # 📊 Projects
-[NEXION BOT](https://nano-ck.cf)
+
+<a href="https://nexion.xyz/">
+  <img src="https://cdn.discordapp.com/avatars/819318402232746035/3b1e8f425e915163c40edb97e31ddc54.png?size=4096" width="100" style="border-radius: 20px;">
+</a>
+
+<a href="https://nexion.xyz/">NEXION BOT</a>
 
 # 📬 Contact Me
-<a href="https://www.whayn.tk/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UCW-0oJZfraag5hBVfNYuzYQ/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+<a href="https://www.whayn.tk/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UC6ppcSkydRYS54L63jlHazg/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
 -----
 
 <p align="center"> 
