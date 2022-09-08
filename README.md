@@ -10,15 +10,13 @@
 **I'm WHAYN**		
 *I'm a developer from Paris 🥖*
 
-📃 »┊ I like to do Origami
-
-🎮 »┊ I would rather code than play
+💭 »┊ I would rather code than anything
 
 🥱 »┊ I usually code Discord bots and softwares to replace me in boring tasks
 
-📟 »┊ I know five coding languages, JavaScript, HTML/CSS, Python, C# (not really well) and Sql.
+📟 »┊ I know six coding languages, JavaScript, TypeScript, HTML/CSS, Python, C# (not really well) and Sql.
 
-📚 »┊ I am learning JavaScript every day to code my own advanced discord bot with [@NANO-ck](https://github.com/NANO-ck)
+📚 »┊ I am learning TypeScript every day to code my own advanced discord bot with [@NANO-ck](https://github.com/NANO-ck)
 
 # 📊 Statistics 
 
