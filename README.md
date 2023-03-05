@@ -10,13 +10,15 @@
 **I'm WHAYN**		
 *I'm a developer from Paris 🥖*
 
-💭 »┊ I would rather code than anything
+💭 »┊ Code gud
 
-🥱 »┊ I usually code Discord bots and softwares to replace me in boring tasks
+🥱 »┊ Automation gud
 
 📟 »┊ I know six coding languages, JavaScript, TypeScript, HTML/CSS, Python, C# (not really well) and Sql.
 
 📚 »┊ I am learning TypeScript every day to code my own advanced discord bot with [@NANO-ck](https://github.com/NANO-ck)
+
+🤨 »┊ WHEN SILKSONG ????
 
 # 📊 Statistics 
 
