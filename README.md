@@ -41,7 +41,7 @@
 <a href="https://ripley.link/">RIPLEY BOT</a>
 
 # 📬 Contact Me
-<a href="https://www.whayn.ml/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UC6ppcSkydRYS54L63jlHazg/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+<a href="https://whayn.github.io/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UC6ppcSkydRYS54L63jlHazg/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
 -----
 
 <p align="center"> 
