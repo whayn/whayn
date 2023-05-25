@@ -40,6 +40,12 @@
 
 <a href="https://ripley.link/">RIPLEY BOT</a>
 
+<a href="https://www.fiverr.com/mayeulf?up_rollout=true">
+  <img src="https://www.pnguniverse.com/wp-content/uploads/2021/03/Fiverr-1024x1024.png" width="100" style="border-radius: 20px;">
+</a>
+
+<a href="https://www.fiverr.com/mayeulf?up_rollout=true">I'm a freelance on fiverr, check out my work !</a>
+
 # 📬 Contact Me
 <a href="https://whayn.github.io/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UC6ppcSkydRYS54L63jlHazg/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
 -----
