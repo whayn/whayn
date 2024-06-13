@@ -7,16 +7,14 @@
 
 
 # 👋🏻 About me 
-**I'm WHAYN**		
-*I'm a developer from Paris 🥖*
+**Hi I'm WHAYN**		
+*a developer from Paris 🥖*
 
 💭 »┊ Code gud
 
 🥱 »┊ Automation gud
 
-📟 »┊ I know six coding languages, JavaScript, TypeScript, HTML/CSS, Python, C# (not really well) and Sql.
-
-📚 »┊ I am learning TypeScript every day to code my own advanced discord bot with [@NANO-ck](https://github.com/NANO-ck)
+📟 »┊ I code stuff trying to experiment and find some funny shit to do.
 
 🤨 »┊ WHEN SILKSONG ????
 
@@ -28,10 +26,6 @@
 
 # 📊 Projects
 
-<a href="https://nexion.xyz/">
-  <img src="https://cdn.discordapp.com/avatars/819318402232746035/3b1e8f425e915163c40edb97e31ddc54.png?size=4096" width="100" style="border-radius: 20px;">
-</a>
-
 <a href="https://nexion.xyz/">NEXION BOT</a>
 
 <a href="https://ripley.link/">
@@ -40,7 +34,7 @@
 
 <a href="https://ripley.link/">RIPLEY BOT</a>
 # 📬 Contact Me
-<a href="https://whayn.github.io/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UC6ppcSkydRYS54L63jlHazg/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+<a href="https://whayn.github.io/"><img src="https://imgur.com/33SKNgr.png" width="40"> </a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://imgur.com/FsfAc2T.png" width="40"></a>
 -----
 
 <p align="center"> 
