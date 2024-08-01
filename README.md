@@ -10,16 +10,6 @@
 **Hi I'm WHAYN**		
 *a developer from Paris 🥖*
 
-💭 »┊ Code gud
-
-🥱 »┊ Automation gud
-
-📟 »┊ I code stuff trying to experiment and find some funny shit to do.
-
-🤨 »┊ WHEN SILKSONG ????
-
-# 📊 Statistics 
-
 ![WHAYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whayn&count_private=true&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whayn&theme=dark)
