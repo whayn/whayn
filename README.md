@@ -10,8 +10,5 @@
 **Hi I'm WHAYN**		
 *a developer from Paris 🥖*
 
-![WHAYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whayn&count_private=true&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whayn&theme=dark)
 
 #### might update that crap one day
