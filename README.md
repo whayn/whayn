@@ -9,6 +9,3 @@
 # 👋🏻 About me 
 **Hi I'm WHAYN**		
 *a developer from Paris 🥖*
-
-
-#### might update that crap one day
